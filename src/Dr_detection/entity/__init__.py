@@ -1,0 +1,1 @@
+from Dr_detection.entity.config_entity import *
